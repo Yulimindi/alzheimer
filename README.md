@@ -1,8 +1,7 @@
-# chiiiii
+# 치매 조기 발견 시스템
 
-A new Flutter project.
 
-## Getting Started
+프론트엔드만 구현되어 있음
 
 This project is a starting point for a Flutter application.
 
