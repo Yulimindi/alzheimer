@@ -1,7 +1,6 @@
 # 치매 조기 발견 시스템
 
 
-프론트엔드만 구현되어 있음
 
 This project is a starting point for a Flutter application.
 
